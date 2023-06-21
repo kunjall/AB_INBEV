@@ -1,0 +1,8 @@
+{
+    "detail-type": ["Glue Crawler State Change"],
+    "source": ["aws.glue"],
+    "detail": {
+        "crawlerName": ["s3gluecrawler"],
+        "state": ["succeeded"]
+    }
+}
